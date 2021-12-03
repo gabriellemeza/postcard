@@ -17,4 +17,4 @@ output:
   postcards::onofre
 ---
  
-Gabrielle Mdeza is a first year PhD. student at UCSD. Thiis is her bioinformatics class. 
+Gabrielle Mdeza is a first year PhD. student at UCSD. This is her bioinformatics class. 
