@@ -1,0 +1,20 @@
+---
+title: "Welcome to Bioinformatics"
+image: "profPic.png"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: YouTube
+    url: "https://youtube.com/"
+  - label: Vimeo
+    url: "https://vimeo.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::onofre
+---
+ 
+Gabrielle Mdeza is a first year PhD. student at UCSD. Thiis is her bioinformatics class. 
